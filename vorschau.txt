@@ -1,0 +1,3 @@
+Quelle: design/cinematic-stage
+Commit: f295f4e
+Gebaut: 2026-10-16T15:17Z

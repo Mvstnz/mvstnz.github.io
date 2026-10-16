@@ -1,0 +1,1094 @@
+{
+  "/images/redesign/bands/saal-genokon-800.webp": {
+    "source": "events/231116-la-genokon23-0z0a6679.jpg",
+    "sourceWidth": 2658,
+    "sourceHeight": 1772,
+    "crop": {
+      "left": 148,
+      "top": 0,
+      "width": 2363,
+      "height": 1772
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/saal-genokon-1600.webp": {
+    "source": "events/231116-la-genokon23-0z0a6679.jpg",
+    "sourceWidth": 2658,
+    "sourceHeight": 1772,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2658,
+      "height": 1140
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/saal-genokon-2400.webp": {
+    "source": "events/231116-la-genokon23-0z0a6679.jpg",
+    "sourceWidth": 2658,
+    "sourceHeight": 1772,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2658,
+      "height": 1140
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/saal-genokon-3200.webp": {
+    "source": "events/231116-la-genokon23-0z0a6679.jpg",
+    "sourceWidth": 2658,
+    "sourceHeight": 1772,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2658,
+      "height": 1139
+    },
+    "width": 2658,
+    "height": 1139
+  },
+  "/images/redesign/bands/saal-up-berlin-800.webp": {
+    "source": "events/buehne-dierck-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 142,
+      "top": 0,
+      "width": 2276,
+      "height": 1707
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/saal-up-berlin-1600.webp": {
+    "source": "events/buehne-dierck-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 231,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/saal-up-berlin-2400.webp": {
+    "source": "events/buehne-dierck-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 231,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/saal-up-berlin-3200.webp": {
+    "source": "events/buehne-dierck-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 232,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/gespraech-up-frankfurt-800.webp": {
+    "source": "events/up-frankfurt-37.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 273,
+      "top": 0,
+      "width": 4353,
+      "height": 3265
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/gespraech-up-frankfurt-1600.webp": {
+    "source": "events/up-frankfurt-37.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 4898,
+      "height": 2100
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/gespraech-up-frankfurt-2400.webp": {
+    "source": "events/up-frankfurt-37.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 4898,
+      "height": 2100
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/gespraech-up-frankfurt-3200.webp": {
+    "source": "events/up-frankfurt-37.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 52,
+      "width": 4898,
+      "height": 2098
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/digitalforum-095-800.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 61,
+      "top": 0,
+      "width": 2439,
+      "height": 1829
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/digitalforum-095-1600.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/digitalforum-095-2400.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/digitalforum-095-3200.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/raum-powerdays-800.webp": {
+    "source": "events/suzuki_powerdays2026_t3_hubertus-porschen-27.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 3000,
+    "crop": {
+      "left": 0,
+      "top": 390,
+      "width": 2000,
+      "height": 1500
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/raum-powerdays-1600.webp": {
+    "source": "events/suzuki_powerdays2026_t3_hubertus-porschen-27.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 3000,
+    "crop": {
+      "left": 0,
+      "top": 634,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/raum-powerdays-2400.webp": {
+    "source": "events/suzuki_powerdays2026_t3_hubertus-porschen-27.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 3000,
+    "crop": {
+      "left": 0,
+      "top": 634,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 2000,
+    "height": 858
+  },
+  "/images/redesign/bands/raum-powerdays-3200.webp": {
+    "source": "events/suzuki_powerdays2026_t3_hubertus-porschen-27.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 3000,
+    "crop": {
+      "left": 0,
+      "top": 634,
+      "width": 2000,
+      "height": 857
+    },
+    "width": 2000,
+    "height": 857
+  },
+  "/images/redesign/bands/raum-workshop-800.webp": {
+    "source": "events/227-_9090086-5184-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1500
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/raum-workshop-1600.webp": {
+    "source": "events/227-_9090086-5184-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 199,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/raum-workshop-2400.webp": {
+    "source": "events/227-_9090086-5184-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 199,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 2000,
+    "height": 858
+  },
+  "/images/redesign/bands/raum-workshop-3200.webp": {
+    "source": "events/227-_9090086-5184-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 199,
+      "width": 2000,
+      "height": 857
+    },
+    "width": 2000,
+    "height": 857
+  },
+  "/images/redesign/bands/buehne-hporschen-3-800.webp": {
+    "source": "events/vortrag-headset-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 143,
+      "top": 0,
+      "width": 2275,
+      "height": 1706
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-hporschen-3-1600.webp": {
+    "source": "events/vortrag-headset-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-hporschen-3-2400.webp": {
+    "source": "events/vortrag-headset-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-hporschen-3-3200.webp": {
+    "source": "events/vortrag-headset-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/buehne-schranner-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1028,
+      "width": 3266,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-schranner-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-schranner-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-schranner-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1399
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/buehne-crashkurs-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 538,
+      "width": 3267,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-crashkurs-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-crashkurs-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-crashkurs-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1400
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/buehne-hporschen-1-800.webp": {
+    "source": "events/buehne-dunkel-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 142,
+      "top": 0,
+      "width": 2276,
+      "height": 1707
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-hporschen-1-1600.webp": {
+    "source": "events/buehne-dunkel-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-hporschen-1-2400.webp": {
+    "source": "events/buehne-dunkel-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-hporschen-1-3200.webp": {
+    "source": "events/buehne-dunkel-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/buehne-strategie-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1028,
+      "width": 3266,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-strategie-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-strategie-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-strategie-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-ki-strategie.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 1427,
+      "width": 3266,
+      "height": 1399
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/digitalforum-092-800.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 61,
+      "top": 0,
+      "width": 2439,
+      "height": 1829
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/digitalforum-092-1600.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/digitalforum-092-2400.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/digitalforum-092-3200.webp": {
+    "source": "events/digitalforum22_092-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1829,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/buehne-acp-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-leadership.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 3267,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-acp-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-leadership.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-acp-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-leadership.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-acp-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-leadership.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 300,
+      "width": 3267,
+      "height": 1400
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/raum-mikrofon-800.webp": {
+    "source": "events/4r2a4707sophieschueler.jpg",
+    "sourceWidth": 4897,
+    "sourceHeight": 3266,
+    "crop": {
+      "left": 271,
+      "top": 0,
+      "width": 4355,
+      "height": 3266
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/raum-mikrofon-1600.webp": {
+    "source": "events/4r2a4707sophieschueler.jpg",
+    "sourceWidth": 4897,
+    "sourceHeight": 3266,
+    "crop": {
+      "left": 0,
+      "top": 182,
+      "width": 4897,
+      "height": 2100
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/raum-mikrofon-2400.webp": {
+    "source": "events/4r2a4707sophieschueler.jpg",
+    "sourceWidth": 4897,
+    "sourceHeight": 3266,
+    "crop": {
+      "left": 0,
+      "top": 182,
+      "width": 4897,
+      "height": 2100
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/raum-mikrofon-3200.webp": {
+    "source": "events/4r2a4707sophieschueler.jpg",
+    "sourceWidth": 4897,
+    "sourceHeight": 3266,
+    "crop": {
+      "left": 0,
+      "top": 183,
+      "width": 4897,
+      "height": 2098
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/saal-wtw-800.webp": {
+    "source": "keynote-speaker/keynote-live-wtw-event-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 142,
+      "top": 0,
+      "width": 2276,
+      "height": 1707
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/saal-wtw-1600.webp": {
+    "source": "keynote-speaker/keynote-live-wtw-event-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 487,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/saal-wtw-2400.webp": {
+    "source": "keynote-speaker/keynote-live-wtw-event-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 487,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/saal-wtw-3200.webp": {
+    "source": "keynote-speaker/keynote-live-wtw-event-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1707,
+    "crop": {
+      "left": 0,
+      "top": 488,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/buehne-hporschen-5-800.webp": {
+    "source": "events/swe_fkm_2025_00366.jpg",
+    "sourceWidth": 2953,
+    "sourceHeight": 1969,
+    "crop": {
+      "left": 164,
+      "top": 0,
+      "width": 2625,
+      "height": 1969
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-hporschen-5-1600.webp": {
+    "source": "events/swe_fkm_2025_00366.jpg",
+    "sourceWidth": 2953,
+    "sourceHeight": 1969,
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 2953,
+      "height": 1266
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-hporschen-5-2400.webp": {
+    "source": "events/swe_fkm_2025_00366.jpg",
+    "sourceWidth": 2953,
+    "sourceHeight": 1969,
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 2953,
+      "height": 1266
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-hporschen-5-3200.webp": {
+    "source": "events/swe_fkm_2025_00366.jpg",
+    "sourceWidth": 2953,
+    "sourceHeight": 1969,
+    "crop": {
+      "left": 0,
+      "top": 51,
+      "width": 2953,
+      "height": 1265
+    },
+    "width": 2953,
+    "height": 1265
+  },
+  "/images/redesign/bands/buehne-verhandlung-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 538,
+      "width": 3267,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-verhandlung-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-verhandlung-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1401
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-verhandlung-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-crashkurs-ki.jpg",
+    "sourceWidth": 3267,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 937,
+      "width": 3267,
+      "height": 1400
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/buehne-jahrzehnte-800.webp": {
+    "source": "keynote-speaker/keynote-speaker-mittelstand.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 293,
+      "width": 3266,
+      "height": 2450
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-jahrzehnte-1600.webp": {
+    "source": "keynote-speaker/keynote-speaker-mittelstand.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 692,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-jahrzehnte-2400.webp": {
+    "source": "keynote-speaker/keynote-speaker-mittelstand.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 692,
+      "width": 3266,
+      "height": 1400
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-jahrzehnte-3200.webp": {
+    "source": "keynote-speaker/keynote-speaker-mittelstand.jpg",
+    "sourceWidth": 3266,
+    "sourceHeight": 4897,
+    "crop": {
+      "left": 0,
+      "top": 693,
+      "width": 3266,
+      "height": 1399
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/portrait-2022-47-800.webp": {
+    "source": "portrait/hubertus_2022_47.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 273,
+      "top": 0,
+      "width": 4353,
+      "height": 3265
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/portrait-2022-47-1600.webp": {
+    "source": "portrait/hubertus_2022_47.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4898,
+      "height": 2100
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/portrait-2022-47-2400.webp": {
+    "source": "portrait/hubertus_2022_47.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4898,
+      "height": 2100
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/portrait-2022-47-3200.webp": {
+    "source": "portrait/hubertus_2022_47.jpg",
+    "sourceWidth": 4898,
+    "sourceHeight": 3265,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 4898,
+      "height": 2098
+    },
+    "width": 3200,
+    "height": 1371
+  },
+  "/images/redesign/bands/buehne-hporschen-6-800.webp": {
+    "source": "portrait/holzwand-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 143,
+      "top": 0,
+      "width": 2275,
+      "height": 1706
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/buehne-hporschen-6-1600.webp": {
+    "source": "portrait/holzwand-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/buehne-hporschen-6-2400.webp": {
+    "source": "portrait/holzwand-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 350,
+      "width": 2560,
+      "height": 1098
+    },
+    "width": 2400,
+    "height": 1029
+  },
+  "/images/redesign/bands/buehne-hporschen-6-3200.webp": {
+    "source": "portrait/holzwand-2560.jpg",
+    "sourceWidth": 2560,
+    "sourceHeight": 1706,
+    "crop": {
+      "left": 0,
+      "top": 351,
+      "width": 2560,
+      "height": 1097
+    },
+    "width": 2560,
+    "height": 1097
+  },
+  "/images/redesign/bands/raum-training-800.webp": {
+    "source": "events/239-_9090108-5183-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1500
+    },
+    "width": 800,
+    "height": 600
+  },
+  "/images/redesign/bands/raum-training-1600.webp": {
+    "source": "events/239-_9090108-5183-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 34,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 1600,
+    "height": 686
+  },
+  "/images/redesign/bands/raum-training-2400.webp": {
+    "source": "events/239-_9090108-5183-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 34,
+      "width": 2000,
+      "height": 858
+    },
+    "width": 2000,
+    "height": 858
+  },
+  "/images/redesign/bands/raum-training-3200.webp": {
+    "source": "events/239-_9090108-5183-x-3888.jpg",
+    "sourceWidth": 2000,
+    "sourceHeight": 1500,
+    "crop": {
+      "left": 0,
+      "top": 34,
+      "width": 2000,
+      "height": 857
+    },
+    "width": 2000,
+    "height": 857
+  }
+}
